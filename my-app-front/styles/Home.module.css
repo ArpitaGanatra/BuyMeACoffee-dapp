@@ -61,6 +61,7 @@
 .left {
   display: flex;
   flex: 0.50;
+  flex-direction: column;
 }
 
 .right {
